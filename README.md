@@ -1,3 +1,5 @@
+# CS268 Introduction to Optimization Labs at UCI
+
 # Requirements
 * Julia
 * Jupyter
